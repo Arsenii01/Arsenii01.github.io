@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b030f432.css",
-    "main.js": "/static/js/main.157d5069.js",
+    "main.css": "/static/css/main.ff101e24.css",
+    "main.js": "/static/js/main.ac4d35b5.js",
     "static/media/cristall.png": "/static/media/cristall.da2fd4d573d50c4840ce.png",
     "static/media/main-bg.jpg": "/static/media/main-bg.63092c972b4297c8af33.jpg",
     "static/media/massage.png": "/static/media/massage.6f3f36051f1d51258e79.png",
@@ -24,11 +24,11 @@
     "static/media/icomoon.woff?hh8kcg": "/static/media/icomoon.8dd1b8f498f326fc977e.woff",
     "static/media/icomoon.ttf?hh8kcg": "/static/media/icomoon.db2c00ba5f00f9547a6b.ttf",
     "index.html": "/index.html",
-    "main.b030f432.css.map": "/static/css/main.b030f432.css.map",
-    "main.157d5069.js.map": "/static/js/main.157d5069.js.map"
+    "main.ff101e24.css.map": "/static/css/main.ff101e24.css.map",
+    "main.ac4d35b5.js.map": "/static/js/main.ac4d35b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b030f432.css",
-    "static/js/main.157d5069.js"
+    "static/css/main.ff101e24.css",
+    "static/js/main.ac4d35b5.js"
   ]
 }
