@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b030f432.css",
+    "main.js": "/static/js/main.157d5069.js",
+    "static/media/cristall.png": "/static/media/cristall.da2fd4d573d50c4840ce.png",
+    "static/media/main-bg.jpg": "/static/media/main-bg.63092c972b4297c8af33.jpg",
+    "static/media/massage.png": "/static/media/massage.6f3f36051f1d51258e79.png",
+    "static/media/pool.png": "/static/media/pool.1ca2803b13b71c57658b.png",
+    "static/media/yoga.png": "/static/media/yoga.81e3d976a179bb98d909.png",
+    "static/media/women.jpg": "/static/media/women.cad9b0f35031d08a1d39.jpg",
+    "static/media/about-2.jpg": "/static/media/about-2.aad0c70df3dd2121e72e.jpg",
+    "static/media/mat.jpg": "/static/media/mat.5b607e0f24ec04c5acf8.jpg",
+    "static/media/about-1.jpg": "/static/media/about-1.038f67b59e4d4baa3373.jpg",
+    "static/media/benefit-image.jpg": "/static/media/benefit-image.5f41f281df2912c3501f.jpg",
+    "static/media/men.jpg": "/static/media/men.8381e86eefa2172905a3.jpg",
+    "static/media/not-allowed.jpg": "/static/media/not-allowed.7c3ba887035db909ebff.jpg",
+    "static/media/partners-2.jpg": "/static/media/partners-2.7035fc2a8db25853ce51.jpg",
+    "static/media/bolster.jpg": "/static/media/bolster.9796972d1bfa6a612fc9.jpg",
+    "static/media/subscription.jpg": "/static/media/subscription.96ccbcf18372b41dbe38.jpg",
+    "static/media/partners-3.jpg": "/static/media/partners-3.3ea6d726758811a27b2a.jpg",
+    "static/media/partners-1.jpg": "/static/media/partners-1.971bb90178cfc40d3e15.jpg",
+    "static/media/icomoon.svg?hh8kcg": "/static/media/icomoon.d9a773ea4ffda2e0f3eb.svg",
+    "static/media/icomoon.eot?hh8kcg": "/static/media/icomoon.28672ed301290a8d59bc.eot",
+    "static/media/icomoon.woff?hh8kcg": "/static/media/icomoon.8dd1b8f498f326fc977e.woff",
+    "static/media/icomoon.ttf?hh8kcg": "/static/media/icomoon.db2c00ba5f00f9547a6b.ttf",
+    "index.html": "/index.html",
+    "main.b030f432.css.map": "/static/css/main.b030f432.css.map",
+    "main.157d5069.js.map": "/static/js/main.157d5069.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b030f432.css",
+    "static/js/main.157d5069.js"
+  ]
+}
